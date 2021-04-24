@@ -1,0 +1,10 @@
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\dao\BaseDao.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\jdbc\JDBC.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\pojo\News.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\pojo\NewsTopic.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\servies\NewsServies.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\servies\NewsServiesImpl.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\dao\NewsDaoImpl.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\dao\NewsDao.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\web\NewsServlet.java
+B:\实训\code\day04_javaweb_news\src\main\java\com\news\web\ReadServlet.java

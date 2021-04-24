@@ -1,0 +1,8 @@
+.class_date li{
+    float: left;
+    padding: 5px 12px;
+}
+
+.classlist .newsItem a span {
+    color: #cccccc;
+}

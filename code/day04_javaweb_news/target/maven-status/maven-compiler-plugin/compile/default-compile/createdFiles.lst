@@ -1,0 +1,10 @@
+com\news\web\ReadServlet.class
+com\news\servies\NewsServies.class
+com\news\web\NewsServlet.class
+com\news\servies\NewsServiesImpl.class
+com\news\dao\BaseDao.class
+com\news\pojo\News.class
+com\news\dao\NewsDao.class
+com\news\jdbc\JDBC.class
+com\news\dao\NewsDaoImpl.class
+com\news\pojo\NewsTopic.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_JavaWeb_01/day01_JavaWeb_01.iml" filepath="$PROJECT_DIR$/day01_JavaWeb_01/day01_JavaWeb_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_week_02/day02_week_02.iml" filepath="$PROJECT_DIR$/day02_week_02/day02_week_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_week_login/day02_week_login.iml" filepath="$PROJECT_DIR$/day02_week_login/day02_week_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_javaweb_03/day03_javaweb_03.iml" filepath="$PROJECT_DIR$/day03_javaweb_03/day03_javaweb_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_javaweb_news/day04_javaweb_news.iml" filepath="$PROJECT_DIR$/day04_javaweb_news/day04_javaweb_news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent_version_manger/parent_version_manger.iml" filepath="$PROJECT_DIR$/parent_version_manger/parent_version_manger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_week_02/week/week.iml" filepath="$PROJECT_DIR$/day02_week_02/week/week.iml" />
+    </modules>
+  </component>
+</project>
